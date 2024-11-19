@@ -1,6 +1,15 @@
 # atomcam
 Atomcam is an open source security camera. The software running on atomcam is called atomrust (https://github.com/carsonfenimore/atomrust).  This page contains the physical platform.  As of the writing of this document not all the needed documentation has been updated.  We hope to publish the model files, assembly instructions, and configuration soon.
 
+The goals of atomcam are to produce a camera anyone can use and trust through open software. The camera must meet the following requirements:
+  - inexpensive (<= $60)
+  - excellent low-light performance
+  - nn-based object detection
+  - water resistant (maybe light rain)
+  - easily powerable (via PoE or usb)
+
+![atomcam breakout](https://github.com/carsonfenimore/atomcam/blob/main/img/atomcam_v1_breakout.jpg)
+
 # Case
 The following case is available for printing. Recommend using PETG or ABS. Coming soon.
 
